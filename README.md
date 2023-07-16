@@ -31,7 +31,9 @@ The dropna() function removes the rows with null values from the dataset to achi
 In statistics and machine learning, data standardization is a process of converting data to z-score values based on the mean and standard deviation of the data.
 
 The Z-score value is given by:
-![1_alUyB7d_zhmlWpg-I4Ej1w_page-0001](https://github.com/nithya1820/SIGAI/assets/87033385/0d056c2a-e6c6-4d45-ba47-c62ca1446997)
+
+![1_alUyB7d_zhmlWpg-I4Ej1w_page-0001](https://github.com/nithya1820/SIGAI/assets/87033385/706305df-e3a7-4b55-a1a4-abb78eb8f7d9)
+
 
 For each feature, we will compute its mean and standard deviation. Then we will subtract the mean from each observation and divide it by the standard deviation to get the standardized values.
 
