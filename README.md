@@ -3,7 +3,7 @@ Objective:
 The main aim of the task is to analyze the given dataset and use different preprocessing techniques to enhance it.
 
 The dataset used here is a heart disease statlog with no missing values(Heart_diseases_statlog.csv).
-Python libraries such as pandas and NumPy are used to analyze datasets and numerical values in datasets respectively.
+Python libraries such as pandas and NumPy are used to analyze dataset and numerical values in datasets respectively.
 
 * **Loading the dataset**
   
@@ -31,6 +31,7 @@ The dropna() function removes the rows with null values from the dataset to achi
 In statistics and machine learning, data standardization is a process of converting data to z-score values based on the mean and standard deviation of the data.
 
 The Z-score value is given by:
+![1_alUyB7d_zhmlWpg-I4Ej1w_page-0001](https://github.com/nithya1820/SIGAI/assets/87033385/0d056c2a-e6c6-4d45-ba47-c62ca1446997)
 
 For each feature, we will compute its mean and standard deviation. Then we will subtract the mean from each observation and divide it by the standard deviation to get the standardized values.
 
