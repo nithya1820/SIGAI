@@ -21,6 +21,7 @@ Matplotlib is one of the most popular graphing and data visualization libraries 
 Four graphs are displayed using hist(), scatter(), bar(), plot() function a- histogram, scatter plot, bar graph, and line graph with multiple sets of data plotted respectively.
 
 * **Null values**
+  
 In the given dataset, there are no null values, that is it is a clean dataset.
 Using null () and sum(), the number of null values present in each column is displayed(in this case no column indicated to have null values).
 The dropna() function removes the rows with null values from the dataset to achieve a cleaner dataset.
@@ -29,6 +30,7 @@ The dropna() function removes the rows with null values from the dataset to achi
 In statistics and machine learning, data standardization is a process of converting data to z-score values based on the mean and standard deviation of the data.
 
 The Z-score value is given by:
+
 For each feature, we will compute its mean and standard deviation. Then we will subtract the mean from each observation and divide it by the standard deviation to get the standardized values.
 
 The resulting standardized value shows the number of standard deviations the raw value is away from the mean, allowing us to compare multiple features and get more relevant information since now all the data will be on the same scale.
