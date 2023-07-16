@@ -27,6 +27,7 @@ Using null () and sum(), the number of null values present in each column is dis
 The dropna() function removes the rows with null values from the dataset to achieve a cleaner dataset.
 
 * **Standardization**
+  
 In statistics and machine learning, data standardization is a process of converting data to z-score values based on the mean and standard deviation of the data.
 
 The Z-score value is given by:
