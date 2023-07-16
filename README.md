@@ -1,5 +1,5 @@
 # SIGAI-Task description
-Objective:
+**Objective**:
 The main aim of the task is to analyze the given dataset and use different preprocessing techniques to enhance it.
 
 The dataset used here is a heart disease statlog with no missing values(Heart_diseases_statlog.csv).
