@@ -7,7 +7,7 @@ Python libraries such as pandas and NumPy are used to analyze dataset and numeri
 
 * **Loading the dataset**
   
-Using pd.read_csv(‘Heart_diseases_statlog.csv’) the dataset is loaded/read into a variable named dataset.
+Using <mark>pd.read_csv(‘Heart_diseases_statlog.csv’)</mark> the dataset is loaded/read into a variable named dataset.
 
 * **Analysing a few rows**
   
